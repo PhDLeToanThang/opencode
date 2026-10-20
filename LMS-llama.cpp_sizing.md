@@ -347,5 +347,5 @@
   thể bạn nên đối chiếu config.json trên trang HF tương ứng.
 ```
 
-
+[Demo Calculator Guide:] (https://atcom.vn/edu/AI-Fundamentals/LMS-llama.cpp_sizing.html)
 
